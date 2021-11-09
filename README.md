@@ -28,6 +28,6 @@
 - [Software Developer](http://www.ethermedicare.com/) - Worked on a Medicare app for audio, video conferencing functionality and used firestore as backend.
 
 
-![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=nnrohu&show_icons=true&hide_border=true)
+![Rohit github stats](https://github-readme-stats.vercel.app/api?username=nnrohu&show_icons=true&hide_border=true)
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nnrohu.nnrohu)
