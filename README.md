@@ -1,19 +1,19 @@
 ## Hey <img src="./images/Hi.gif" width="28px">, I'm [Rohit!](https://nnrohu.github.io)
 
 ### connect with me
-<a href="https://www.linkedin.com/in/nnrohu/">
+<a href="https://www.linkedin.com/in/nnrohu/" target="_blank">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/nnrohu">
+<a href="https://twitter.com/nnrohu" target="_blank">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="mailto:nnrohu@gmail.com">
+<a href="mailto:nnrohu@gmail.com" target="_blank">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<!-- <a href="https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw">
+<!-- <a href="https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw" target="_blank">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a> -->
-<!-- <a href="http://dev.to/kunal">
+<!-- <a href="http://dev.to/kunal" target="_blank">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a> -->
 
