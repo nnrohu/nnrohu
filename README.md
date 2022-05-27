@@ -33,4 +33,4 @@
 ![Rohit github stats](https://github-readme-stats.vercel.app/api?username=nnrohu&show_icons=true&hide_border=true)
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nnrohu.nnrohu)
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt)
