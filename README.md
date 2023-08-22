@@ -24,7 +24,3 @@
 - [Mobile Developer (Veative Labs)](https://www.veative.com/) - I am working on mobile app development.
 - [Software Developer](http://www.ethermedicare.com/) - Worked on a Medicare app for audio, and video conferencing functionality and used Firestore as backend.
 
-[![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=nnrohu)](https://github.com/nnrohu/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnrohu&layout=compact)](https://github.com/nnrohu/github-readme-stats)
-
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
