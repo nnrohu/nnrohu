@@ -22,5 +22,14 @@
 
 - [Senior Software Developer (MyOperator)](https://myoperator.com/) - I am working on Senior software developer.
 - [Mobile Developer (Veative Labs)](https://www.veative.com/) - I am working on mobile app development.
-- [Software Developer](http://www.ethermedicare.com/) - Worked on a Medicare app for audio, and video conferencing functionality and used Firestore as backend.
+- [Software Developer](http://www.ethermedicare.com/) - Worked on a Medicare app for audio, and video conferencing functionality and used Firestore as the backend.
 
+![stats](https://github-readme-stats.vercel.app/api?username=nnrohu&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false)
+![trophy](https://github-profile-trophy.vercel.app/?username=nnrohu&no-bg=true&no-frame=true&column=4&theme=algolia)
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=nnrohu&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
+
+![streak](https://github-contributor-stats.vercel.app/api?username=nnrohu&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
+![streak](https://streak-stats.demolab.com/?user=nnrohu&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=27ae60&currStreakNum=2980b9&sideNums=2980b9&currStreakLabel=2980b9&sideLabels=2980b9&dates=2980b9)
+
+![](https://komarev.com/ghpvc/?username=nnrohu&style=flat-square&label=Views)
+![](https://badges.pufler.dev/visits/char-al/nnrohu?color=black&logo=github&style=flat-square)
