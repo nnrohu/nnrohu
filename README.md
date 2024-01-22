@@ -20,9 +20,9 @@
 
 ### My Experiences 🙌
 
-- [Senior Software Developer (MyOperator)](https://myoperator.com/) - I am working on Senior software developer.
-- [Mobile Developer (Veative Labs)](https://www.veative.com/) - I am working on mobile app development.
-- [Software Developer](http://www.ethermedicare.com/) - Worked on a Medicare app for audio, and video conferencing functionality and used Firestore as the backend.
+- [Senior Software Engineer (Helius | Singlife)]([https://helius.com](https://www.helius-tech.com/)/) - I am working as a Senior software developer.
+- [Senior Software Developer (MyOperator)](https://myoperator.com/) - I am working as a Senior software developer.
+- [Mobile Developer (Veative Labs)](https://www.veative.com/) - I am working as a mobile app development.
 
 ![stats](https://github-readme-stats.vercel.app/api?username=nnrohu&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false)
 ![trophy](https://github-profile-trophy.vercel.app/?username=nnrohu&no-bg=true&no-frame=true&column=4&theme=algolia)
