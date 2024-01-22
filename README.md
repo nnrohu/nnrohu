@@ -20,7 +20,7 @@
 
 ### My Experiences 🙌
 
-- [Senior Software Engineer (Helius | Singlife)]([https://helius.com](https://www.helius-tech.com/)/) - I am working as a Senior software developer.
+- [Senior Software Engineer (Helius | Singlife)](https://www.helius-tech.com/) - I am working as a Senior software developer.
 - [Senior Software Developer (MyOperator)](https://myoperator.com/) - I am working as a Senior software developer.
 - [Mobile Developer (Veative Labs)](https://www.veative.com/) - I am working as a mobile app development.
 
