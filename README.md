@@ -20,9 +20,9 @@
 
 ### My Experiences 🙌
 
-- [Senior Software Engineer (Helius | Singlife)](https://www.helius-tech.com/) - I am working as a Senior software developer.
-- [Senior Software Developer (MyOperator)](https://myoperator.com/) - I am working as a Senior software developer.
-- [Mobile Developer (Veative Labs)](https://www.veative.com/) - I am working as a mobile app development.
+- [Senior Software Engineer (Helius | Singlife)](https://www.helius-tech.com/) - I am working as a Senior software engineer.
+- [Senior Software Developer (MyOperator)](https://myoperator.com/) - I was working as a Senior software developer.
+- [Mobile Developer (Veative Labs)](https://www.veative.com/) - I was working as a mobile developer.
 
 ![stats](https://github-readme-stats.vercel.app/api?username=nnrohu&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false)
 ![trophy](https://github-profile-trophy.vercel.app/?username=nnrohu&no-bg=true&no-frame=true&column=4&theme=algolia)
